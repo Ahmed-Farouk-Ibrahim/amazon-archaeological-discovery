@@ -1,0 +1,24 @@
+{
+  "timestamp": "20250629_204626",
+  "model_performance": {
+    "auc_score": 0.9099301397205589,
+    "training_samples": 1491,
+    "cv_mean": 0.8614206018621878,
+    "cv_std": 0.06907192652199932
+  },
+  "discoveries": {
+    "total_hotspots": 1,
+    "high_confidence": 1
+  },
+  "data_summary": {
+    "nasa_scenes": 22,
+    "copernicus_scenes": 12,
+    "dtm_tiles": 42,
+    "training_sites": 1698
+  },
+  "output_files": {
+    "model": "/workspace/models_20250629_204626/ultimate_archaeological_model.pkl",
+    "interactive_map": "/workspace/maps_20250629_204626/ultimate_archaeological_discoveries.html",
+    "ai_analysis": "The coordinates provided place the site within the central Amazon basin, an area historically rich with evidence of pre-Columbian civilizations that utilized intricate earthworks. The AI's confidence level of 75% and a robust ROC AUC score of 0.910 suggest a significant likelihood that this site contains anthropogenic features. The Amazon has been home to various complex societies, such as the Marajoara and the Tapaj\u00f3s, known for their sophisticated earthworks, including mounds, causeways, and geoglyphs. The potential discovery of such features at this site could provide valuable insights into the social organization, agricultural practices, and environmental management strategies of these ancient peoples. Given the historical context and the AI's analysis, the evidence is compelling enough to warrant further investigation.\n\nIn terms of research priority, this site should be considered for immediate field investigation. The central Amazon is a region where rapid deforestation and development pose threats to undiscovered archaeological sites. Prompt exploration and documentation are crucial to preserving potential cultural heritage. Additionally, the high model performance indicates that the AI system used is reliable, further supporting the need for a timely response. An expedition could confirm the presence of earthworks and potentially uncover artifacts or ecofacts that contribute to our understanding of pre-Columbian societies in the Amazon. Therefore, I recommend assembling a multidisciplinary team to conduct a preliminary survey and, if findings are promising, a more extensive excavation."
+  }
+}
